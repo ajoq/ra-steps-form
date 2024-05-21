@@ -1,0 +1,10 @@
+.steps {
+    padding: 20px;
+    display: inline-block;
+}
+
+.form-input {
+    padding: 6px 12px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+}
